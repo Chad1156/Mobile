@@ -1,4 +1,4 @@
-# Mobile
+# Isle Of Lunae Companion App
 Journal Pages
 
 A journal that allows the player to learn more about the locations and characters they encounter, as well as the enemies they defeat.
